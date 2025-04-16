@@ -4,7 +4,7 @@ const Searchbar = () => {
             <div className="">
                 <img src="images/searchIcon.png" alt="" width={40} height={40}/>
             </div>
-            <div className="    w-full ">
+            <div className="w-full ">
                 <input type="text" />
             </div>
         </div>
